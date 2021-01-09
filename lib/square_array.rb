@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  squared_array = []
+  while array.length | index {
+    
+  }
 end
